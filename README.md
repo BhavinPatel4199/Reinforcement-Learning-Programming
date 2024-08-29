@@ -4,7 +4,7 @@
 
 ## Projects
 
-### 1. Dynamic Programming for Georgian College Parking Optimization
+### 1. **[Dynamic Programming for Georgian College Parking Optimization](./Dynamic%20Programming%20for%20Georgian%20College%20Parking%20Optimization/)**
 
 - This project applies dynamic programming to optimize parking space allocation at Georgian College. The goal is to maximize social welfare by finding the optimal pricing scheme, balancing full occupancy and availability.
 
@@ -16,9 +16,8 @@
 - **Environment Setup**: Defined in the `tools.py` file, which includes the `GCParking` class for simulating state transitions and rewards.
 - **Visualization**: Functions are provided to visualize value functions and policies.
 
-**[Dynamic Programming for Georgian College Parking Optimization](./Dynamic%20Programming%20for%20Georgian%20College%20Parking%20Optimization/)**
 
-### 2. Blackjack Reinforcement Learning Agents
+### 2. **[Blackjack Reinforcement Learning Agents](./Blackjack%20Reinforcement%20Learning%20Agents/)**
 
 This project focuses on developing reinforcement learning agents for a customized Blackjack environment. The main agents implemented are Monte Carlo and Sarsa(λ), both optimized for playing Blackjack.
 
@@ -27,9 +26,8 @@ This project focuses on developing reinforcement learning agents for a customize
 - **Sarsa(λ) Agent**: Implemented in `sarsa_agent.py` with eligibility traces and support for custom λ values.
 - **Visualization**: The project includes code for visualizing the optimal value function.
 
-**[Blackjack Reinforcement Learning Agents](./Blackjack%20Reinforcement%20Learning%20Agents/)**
 
-### 3. LunarLander Actor-Critic Reinforcement Learning
+### 3. **[LunarLander Actor-Critic Reinforcement Learning](./LunarLander%20Actor-Critic%20Reinforcement%20Learning/)**
 
 This project demonstrates the application of the Actor-Critic reinforcement learning method to train an agent to play the LunarLander-v2 game.
 
@@ -44,7 +42,6 @@ This project demonstrates the application of the Actor-Critic reinforcement lear
   - `record_video.py`: Code for recording gameplay.
 - **Outputs**: Trained models (`actor.pth`, `critic.pth`) and gameplay videos (`lunar_lander.mp4`, `lunar_lander_1.mp4`).
 
-**[LunarLander Actor-Critic Reinforcement Learning](./LunarLander%20Actor-Critic%20Reinforcement%20Learning/)**
 
 ## Getting Started
 
