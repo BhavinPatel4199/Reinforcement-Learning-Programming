@@ -16,7 +16,7 @@
 - **Environment Setup**: Defined in the `tools.py` file, which includes the `GCParking` class for simulating state transitions and rewards.
 - **Visualization**: Functions are provided to visualize value functions and policies.
 
-[Detailed Project Documentation](./Dynamic_Programming_for_Georgian_College_Parking_Optimization)
+[Detailed Project Documentation](./1.%20Dynamic%20Programming%20for%20Georgian%20College%20Parking%20Optimization)
 
 ### 2. Blackjack Reinforcement Learning Agents
 
@@ -44,7 +44,7 @@ This project demonstrates the application of the Actor-Critic reinforcement lear
   - `record_video.py`: Code for recording gameplay.
 - **Outputs**: Trained models (`actor.pth`, `critic.pth`) and gameplay videos (`lunar_lander.mp4`, `lunar_lander_1.mp4`).
 
-[Detailed Project Documentation](./LunarLander_Actor_Critic_Reinforcement_Learning)
+[Detailed Project Documentation](./3.%20LunarLander%20Actor-Critic%20Reinforcement%20Learning)
 
 ## Getting Started
 
@@ -53,4 +53,3 @@ This project demonstrates the application of the Actor-Critic reinforcement lear
 ```bash
 git clone https://github.com/krishnapatel1722/Reinforcement-Learning-Programming.git
 ```
-
