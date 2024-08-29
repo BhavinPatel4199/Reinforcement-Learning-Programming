@@ -21,7 +21,8 @@
 
 ## Sarsa(λ) Agent : 
 
-- The `sarsa_agent.py` file contains the implementation of a Sarsa(λ) agent. This agent uses the Sarsa(λ) algorithm, which is a variation of the Sarsa algorithm incorporating eligibility traces, to learn an optimal policy in the Blackjack environment.
+- The `sarsa_agent.py` file contains the implementation of a Sarsa(λ) agent. 
+- This agent uses the Sarsa(λ) algorithm, which is a variation of the Sarsa algorithm incorporating eligibility traces, to learn an optimal policy in the Blackjack environment.
 
 ### Key Features :
   - Epsilon-greedy action selection
@@ -36,7 +37,8 @@
 - python3 -m venv env
 - source env/bin/activate 
 
-# On Windows use : `env\Scripts\activate`
+# On Windows use : 
+- `env\Scripts\activate`
 
 ## Usage
 
@@ -45,7 +47,6 @@
 """
 from monte_carlo_agent import MonteCarloAgent
 from ModifiedBJ_env import ModifiedBlackJack
-
 env = ModifiedBlackJack()
 mc_agent = MonteCarloAgent(env)
 mc_agent.train(num_episodes=90000)
