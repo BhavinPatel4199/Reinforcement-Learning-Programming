@@ -30,7 +30,7 @@ pip install -r requirements.txt
 
 
 ## Running the Project
-- **Train the Model:**
+
 - To train the model, run:
 ```bash
 python train.py
