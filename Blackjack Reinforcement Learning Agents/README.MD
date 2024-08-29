@@ -53,21 +53,19 @@ mc_agent.train(num_episodes=90000)
 ```
 
 ### To train the Sarsa(λ) agent:
-- python code :
-"""
+```python
 from sarsa_agent import SarsaLambdaAgent
 from ModifiedBJ_env import ModifiedBlackJack
 
 env = ModifiedBlackJack()
 sarsa_agent = SarsaLambdaAgent(env)
 sarsa_agent.train(num_episodes=90000)
-"""
+```
 
 ## Visualization : 
 - The results of training, such as the optimal value function, can be visualized using the built-in plotting functions:
 
-- python code : 
-"""
+```python
 import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D
 
@@ -78,7 +76,7 @@ dealer_shows = range(1, 14)
 V_grid = ...
 # Code to generate the plot
 plt.show()
-"""
+```
 
 
 
