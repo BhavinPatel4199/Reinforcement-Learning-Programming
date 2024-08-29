@@ -27,7 +27,7 @@ This project focuses on developing reinforcement learning agents for a customize
 - **Sarsa(λ) Agent**: Implemented in `sarsa_agent.py` with eligibility traces and support for custom λ values.
 - **Visualization**: The project includes code for visualizing the optimal value function.
 
-[Detailed Project Documentation](./Blackjack_Reinforcement_Learning_Agents)
+[Detailed Project Documentation](./Blackjack Reinforcement Learning Agents)
 
 ### 3. LunarLander Actor-Critic Reinforcement Learning
 
