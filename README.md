@@ -1,9 +1,12 @@
 # Reinforcement-Learning-Programming
 ### Projects
 
-1. [Dynamic Programming for Georgian College Parking Optimization](./1.%20Dynamic%20Programming%20for%20Georgian%20College%20Parking%20Optimization)
-2. [Blackjack Reinforcement Learning Agents](./2.%20Blackjack%20Reinforcement%20Learning%20Agents)
-3. [LunarLander Actor-Critic Reinforcement Learning](./3.%20LunarLander%20Actor-Critic%20Reinforcement%20Learning)
+### Projects
+
+1. [Dynamic Programming for Georgian College Parking Optimization](./Reinforcement-Learning-Programming/Dynamic%20Programming%20for%20Georgian%20College%20Parking%20Optimization/)
+2. [Blackjack Reinforcement Learning Agents](./Reinforcement-Learning-Programming/Blackjack%20Reinforcement%20Learning%20Agents/)
+3. [LunarLander Actor-Critic Reinforcement Learning](./Reinforcement-Learning-Programming/LunarLander%20Actor-Critic%20Reinforcement%20Learning/)
+
 
 
 You can use these in your documentation or README files.
