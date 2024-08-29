@@ -1,13 +1,4 @@
 # Reinforcement-Learning-Programming
-### Projects
-
-1. [Dynamic Programming for Georgian College Parking Optimization](./Dynamic%20Programming%20for%20Georgian%20College%20Parking%20Optimization/)
-2. [Blackjack Reinforcement Learning Agents](./Blackjack%20Reinforcement%20Learning%20Agents/)
-3. [LunarLander Actor-Critic Reinforcement Learning](./LunarLander%20Actor-Critic%20Reinforcement%20Learning/)
-
-
-
-You can use these in your documentation or README files.
 
 - This repository contains various projects demonstrating the application of reinforcement learning and dynamic programming techniques to solve real-world problems.
 
@@ -25,7 +16,7 @@ You can use these in your documentation or README files.
 - **Environment Setup**: Defined in the `tools.py` file, which includes the `GCParking` class for simulating state transitions and rewards.
 - **Visualization**: Functions are provided to visualize value functions and policies.
 
-[Detailed Project Documentation](./1.%20Dynamic%20Programming%20for%20Georgian%20College%20Parking%20Optimization)
+**[Dynamic Programming for Georgian College Parking Optimization](./Dynamic%20Programming%20for%20Georgian%20College%20Parking%20Optimization/)**
 
 ### 2. Blackjack Reinforcement Learning Agents
 
@@ -36,7 +27,7 @@ This project focuses on developing reinforcement learning agents for a customize
 - **Sarsa(λ) Agent**: Implemented in `sarsa_agent.py` with eligibility traces and support for custom λ values.
 - **Visualization**: The project includes code for visualizing the optimal value function.
 
-[Detailed Project Documentation](./"Blackjack Reinforcement Learning Agents")
+**[Blackjack Reinforcement Learning Agents](./Blackjack%20Reinforcement%20Learning%20Agents/)**
 
 ### 3. LunarLander Actor-Critic Reinforcement Learning
 
@@ -53,7 +44,7 @@ This project demonstrates the application of the Actor-Critic reinforcement lear
   - `record_video.py`: Code for recording gameplay.
 - **Outputs**: Trained models (`actor.pth`, `critic.pth`) and gameplay videos (`lunar_lander.mp4`, `lunar_lander_1.mp4`).
 
-[Detailed Project Documentation](./3.%20LunarLander%20Actor-Critic%20Reinforcement%20Learning)
+**[LunarLander Actor-Critic Reinforcement Learning](./LunarLander%20Actor-Critic%20Reinforcement%20Learning/)**
 
 ## Getting Started
 
