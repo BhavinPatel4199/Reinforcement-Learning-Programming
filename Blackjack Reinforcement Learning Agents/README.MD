@@ -43,14 +43,14 @@
 ## Usage
 
 ### To train the Monte Carlo agent:
-- python code : 
-"""
+```python
+
 from monte_carlo_agent import MonteCarloAgent
 from ModifiedBJ_env import ModifiedBlackJack
 env = ModifiedBlackJack()
 mc_agent = MonteCarloAgent(env)
 mc_agent.train(num_episodes=90000)
-"""
+```
 
 ### To train the Sarsa(λ) agent:
 - python code :
