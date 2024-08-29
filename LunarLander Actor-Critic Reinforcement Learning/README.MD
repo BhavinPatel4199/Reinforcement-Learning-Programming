@@ -47,8 +47,8 @@ python record_video.py
 
 ## Displaying Performance
 - To display how the Actor-Critic Neural Network performs in different environments, you can view the following videos:
-1. LunarLander-v2 Environment - [!lunar_lander.mp4]
-2. Alternative Environment - [!lunar_lander_1.mp4]
+1. [LunarLander-v2 Environment](./lunar_lander.mp4)
+2. [Alternative Environment](./lunar_lander_1.mp4)
 
 
 ## Contributing
